@@ -129,7 +129,7 @@ treeshield-ai/
 The main dashboard provides an overview of the entire TreeShield AI workflow. Users can upload datasets, select machine learning models, and navigate through each security analysis module.
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="100%">
+  <img src="screenshots/dashboard.png" width="50%">
 </p>
 
 ---
@@ -139,7 +139,7 @@ The main dashboard provides an overview of the entire TreeShield AI workflow. Us
 Upload any tabular CSV dataset and train tree-based machine learning models including Random Forest, XGBoost, LightGBM, and CatBoost. The platform automatically preprocesses the data and evaluates model performance.
 
 <p align="center">
-  <img src="screenshots/model-training.png" width="100%">
+  <img src="screenshots/model-training.png" width="50%">
 </p>
 
 ---
@@ -149,7 +149,7 @@ Upload any tabular CSV dataset and train tree-based machine learning models incl
 Evaluate the robustness of tree-based models against adversarial feature perturbations. The platform generates minimal adversarial examples, attack statistics, and identifies the most vulnerable features.
 
 <p align="center">
-  <img src="ss/1784834580932.jpeg" width="100%">
+  <img src="ss/1784834580932.jpeg" width="50%">
 </p>
 
 ---
@@ -159,7 +159,7 @@ Evaluate the robustness of tree-based models against adversarial feature perturb
 Analyze model robustness by computing robustness scores, perturbation tolerance, verified samples, and safe prediction regions.
 
 <p align="center">
-  <img src="ss/1784834600327.jpeg" width="100%">
+  <img src="ss/1784834600327.jpeg" width="50%">
 </p>
 
 ---
@@ -169,7 +169,7 @@ Analyze model robustness by computing robustness scores, perturbation tolerance,
 Identify the most influential features affecting predictions using data-aware sensitivity analysis and realistic counterfactual examples.
 
 <p align="center">
-  <img src="ss/1784834606234.jpeg" width="100%">
+  <img src="ss/1784834606234.jpeg" width="50%">
 </p>
 
 ---
@@ -179,7 +179,7 @@ Identify the most influential features affecting predictions using data-aware se
 Understand model predictions using SHAP explainability, feature importance, and local prediction explanations.
 
 <p align="center">
-  <img src="ss/1784834616710.jpeg" width="100%">
+  <img src="ss/1784834616710.jpeg" width="50%">
 </p>
 
 ---
