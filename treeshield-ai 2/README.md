@@ -122,6 +122,75 @@ treeshield-ai/
 │   └── Dockerfile
 └── docker-compose.yml
 ```
+# 📷 Application Screenshots
+
+## 🏠 Dashboard
+
+The main dashboard provides an overview of the entire TreeShield AI workflow. Users can upload datasets, select machine learning models, and navigate through each security analysis module.
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="100%">
+</p>
+
+---
+
+## 📊 Dataset Upload & Model Training
+
+Upload any tabular CSV dataset and train tree-based machine learning models including Random Forest, XGBoost, LightGBM, and CatBoost. The platform automatically preprocesses the data and evaluates model performance.
+
+<p align="center">
+  <img src="screenshots/model-training.png" width="100%">
+</p>
+
+---
+
+## ⚔️ Adversarial Attack Analysis
+
+Evaluate the robustness of tree-based models against adversarial feature perturbations. The platform generates minimal adversarial examples, attack statistics, and identifies the most vulnerable features.
+
+<p align="center">
+  <img src="ss/1784834580932.jpeg" width="100%">
+</p>
+
+---
+
+## 🛡️ Robustness Verification
+
+Analyze model robustness by computing robustness scores, perturbation tolerance, verified samples, and safe prediction regions.
+
+<p align="center">
+  <img src="ss/1784834600327.jpeg" width="100%">
+</p>
+
+---
+
+## 🎯 Sensitivity Analysis
+
+Identify the most influential features affecting predictions using data-aware sensitivity analysis and realistic counterfactual examples.
+
+<p align="center">
+  <img src="ss/1784834606234.jpeg" width="100%">
+</p>
+
+---
+
+## 🔍 Explainability
+
+Understand model predictions using SHAP explainability, feature importance, and local prediction explanations.
+
+<p align="center">
+  <img src="ss/1784834616710.jpeg" width="100%">
+</p>
+
+---
+
+## 📄 Security Audit Report
+
+Generate a comprehensive AI Security Report containing robustness metrics, adversarial analysis, explainability, fairness evaluation, and deployment recommendations.
+
+<p align="center">
+  <img src="ss/1784834622327.jpeg" width="100%">
+</p>
 
 ## Resume line
 
